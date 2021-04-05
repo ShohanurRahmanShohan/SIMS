@@ -10,7 +10,7 @@ The student information management system. It's a vanilla python script that can
 -[5] LESS THAN 500 Kb!!!
 
 ## Screenshoot 
-![SCREENSHOOT](ss.png)
+![SCREENSHOOT](sss.png)
 Format: ![Alt Text](url)
 
 ## INSTALLATION ON ANY TERMINAL 
