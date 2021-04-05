@@ -11,7 +11,7 @@ The student information management system. It's a vanilla python script that can
 
 ## Screenshoot 
 ![SCREENSHOOT](sss.png)
-Format: ![Alt Text](url)
+F
 
 ## INSTALLATION ON ANY TERMINAL 
 - pkg install git <br>
