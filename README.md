@@ -1,5 +1,5 @@
 # SIMS
-The student information management system. It's a vanilla python script that can write it in student information in CSV !
+The student information management system. It's a vanilla python script that can write  student information in CSV !
 - No need to install module <br>
 - Store all data in CSV <br>
 ##  OPTION
