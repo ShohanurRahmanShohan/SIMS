@@ -11,7 +11,7 @@ The student information management system. It's a vanilla python script that can
 
 ## Screenshoot 
 ![SCREENSHOOT](sss.png)
-F
+
 
 ## INSTALLATION ON ANY TERMINAL 
 - pkg install git <br>
@@ -19,4 +19,4 @@ F
 - git clone https://github.com/ShohanurRahmanShohan/SIMS <br>
 - cd SIMS <br> 
 - python main.py / or python3 main.py<br>
-- ENJOY
+- ENJOY !!
